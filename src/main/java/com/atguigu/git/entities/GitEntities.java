@@ -1,7 +1,10 @@
 package com.atguigu.git.entities;
 
 public class GitEntities {
-  
-  System.out.println("qqqqqqq");
+	
+	public static void main(String[] args) {
+		
+		System.out.println("qqqqqqq");
+	}
   
 }
